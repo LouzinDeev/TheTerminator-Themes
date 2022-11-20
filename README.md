@@ -7,10 +7,7 @@ p10k TheTerminal Themes
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Usage
-> copy the THT theme into ~/.p10k.zsh and execute the comand
-```
-source ~/.p10k.zsh
-```
+> execute the THTSet.sh command, and folow the tutorial, if you're running for the first time, type y for download the themes!!!
 > and enjoy
 
 ## TheTerminal Legacy themes
