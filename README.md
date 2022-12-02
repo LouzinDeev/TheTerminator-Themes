@@ -26,3 +26,7 @@ p10k TheTerminal Themes
 ## TheTerminal VOID Theme
 #### VOID (THT-V)
 ![TheTerminator-VOID](https://github.com/LouzinDeev/Web-Bank/blob/master/Images/THT-V.png)
+
+## TheTerminal Deluxe Themes
+#### Arch (THT-DA)
+![TheTerminator-Deluxe Arch](https://github.com/LouzinDeev/Web-Bank/blob/master/Images/THT-DA.png)
