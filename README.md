@@ -3,12 +3,33 @@ p10k TheTerminal Themes
 
 ## Prerequisites
 
+### Linux
 [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
 [powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
+### Windows
+[oh-my-posh](https://ohmyposh.dev)
+
 ## Usage
+### Linux 
 > execute the THTSet.sh command, and folow the tutorial, if you're running for the first time, type y for download the themes!!!
 > and enjoy
+
+### Windows 
+> After install Oh-my-posh, use
+```bash
+code $PROFILE # (Use your favorite editor '-' )
+```
+> And past this:
+```bash
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\TheTerminator\Deluxe\{Your favorite TheTerminator Theme}.json" | Invoke-Expression
+```
+> in {Your favorite TheTerminator Theme} add your theme, Ex using TheTerminator-Deluxe Arch (My favorite hehe)
+```bash
+oh-my-posh init pwsh --config "$env:POSH_THEMES_PATH\TheTerminator\Deluxe\{THT-DA}.json" | Invoke-Expression
+```
+
+> Save and enjoy
 
 ## TheTerminal Legacy themes
 
